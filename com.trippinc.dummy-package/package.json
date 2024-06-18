@@ -1,7 +1,7 @@
 {
   "name": "com.trippinc.dummy-package",
   "displayName": "Dummy Package",
-  "version": "0.0.1-pre.1",
+  "version": "0.0.1-pre.14",
   "unity": "2022.3",
   "description": "Verdaccio Package for dummies",
   "dependencies": {
